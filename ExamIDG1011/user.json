@@ -1,0 +1,109 @@
+{
+    "friends": [
+    {
+      "name": "Alfred",
+      "age": "17",
+      "town": "Gjøvik"
+    },
+    {
+        "name": "Per",
+        "age": "19",
+        "town": "Oslo"
+    },
+    {
+        "name": "Sture",
+        "age": "21",
+        "town": "Skien"
+    },
+    {
+        "name": "Nico",
+        "age": "22",
+        "town": "Trondheim"
+    },
+    {
+        "name": "Elsie",
+        "age": "50",
+        "town": "Oslo"
+    },
+    {
+        "name": "Øystein",
+        "age": "60",
+        "town": "Trondheim"
+    },
+    {
+        "name": "Joakim",
+        "age": "32",
+        "town": "Lillehammer"
+    },
+    {
+        "name": "Jonas",
+        "age": "29",
+        "town": "Oslo"
+    },
+    {
+        "name": "Harald",
+        "age": "41",
+        "town": "Trondheim"
+    },
+    {
+        "name": "Julie",
+        "age": "18",
+        "town": "Fredrikstad"
+        }
+    ]
+ }
+
+{
+    "family": [
+    {
+      "name": "Freddie",
+      "age": "51",
+      "town": "London"
+    },
+    {
+        "name": "Elling",
+        "age": "21",
+        "town": "Bergen"
+    },
+    {
+        "name": "Knut",
+        "age": "21",
+        "town": "Oslo"
+    },
+    {
+        "name": "Martin",
+        "age": "22",
+        "town": "Notodden"
+    },
+    {
+        "name": "Magnus",
+        "age": "30",
+        "town": "Hamar"
+    },
+    {
+        "name": "Felix",
+        "age": "17",
+        "town": "Fredrikstad"
+    },
+    {
+        "name": "Andre",
+        "age": "27",
+        "town": "Lillehammer"
+    },
+    {
+        "name": "Marit",
+        "age": "49",
+        "town": "Oslo"
+    },
+    {
+        "name": "Anne",
+        "age": "41",
+        "town": "Trondheim"
+    },
+    {
+        "name": "emil",
+        "age": "18",
+        "town": "Gjøvik"
+        }
+    ]
+ }
